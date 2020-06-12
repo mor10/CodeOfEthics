@@ -1,4 +1,5 @@
 # Code of Ethics for Bloggers, Social Media and Content Creators
+[![GitHub license](https://img.shields.io/github/license/mor10/CodeOfEthics)](https://github.com/mor10/CodeOfEthics/blob/master/LICENSE)
 
 Originally published August 14, 2009 at [mor10.com](https://mor10.com/code-of-ethics-for-bloggers-social-media-and-content-creators/).
 
